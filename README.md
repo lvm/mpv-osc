@@ -57,6 +57,11 @@ Pdef(\mpv).play
 Pdef(\mpv).clear
 ```
 
+## Dependencies
+
+* **Lua 5.1**
+* `mpv`
+* [luasocket](https://luarocks.org/modules/luarocks/luasocket) (I recommend `luarocks` to install it)
 
 ## LICENSE
 
